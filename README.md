@@ -30,9 +30,9 @@ Always learning, always creating.
 ---
 
 ## 🌐 Connect with Me  
-- 💼 [LinkedIn](https://www.linkedin.com/ignaciodamiani)
-- 📧 **Coming soon...** 
+- 💼 [LinkedIn](https://www.linkedin.com/in/ignaciodamiani/)
+- 📧 **Coming soon...**
 
 ---
 
-✨ *"Code is like art — the more you practice, the better you paint."*  
+✨ *"Code is like art... the more you practice, the better you paint."*
