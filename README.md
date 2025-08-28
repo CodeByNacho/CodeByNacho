@@ -20,7 +20,7 @@ Always learning, always creating.
 - 🎨 **Styling**: CSS, Styled-Components  
 - 🗄️ **Backend**: Node.js, Express, Firebase, PHP  
 - 🛢️ **Databases**: MySQL, SQLite
-- 🧰 **Tools**: Git, Docker, Figma, 
+- 🧰 **Tools**: Git, Docker, Figma
 
 ---
 
