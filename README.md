@@ -1,38 +1,69 @@
-# 👋 Hi, I'm Nacho.
+# 👋 Hi, I'm Nacho
 
-💻 **Programmer | React Enthusiast | Mobile App Builder**  
-
-I'm passionate about building smooth, interactive, and beautiful applications — whether it's for the **web** or **mobile**.  
-Always learning, always creating.  
-
----
-
-## 🚀 About Me  
-- 🔹 Love working with **React** & **PHP**  
-- 🔹 Curious about **UI/UX** and how design meets code  
-- 🔹 Always improving my craft and exploring new technologies  
-- 🔹 Open to collaboration and building cool projects with amazing people  
+💻 Software Developer  
+🤖 Passionate about AI & Automation  
+⚙️ Backend systems, scripting & infrastructure  
+🐧 Linux enthusiast  
 
 ---
 
-## 🛠️ Tech Stack  
-- ⚛️ **Frontend**: React, React Native, Angular, Vanilla 
-- 🎨 **Styling**: CSS, Styled-Components  
-- 🗄️ **Backend**: Node.js, Express, Firebase, PHP  
-- 🛢️ **Databases**: MySQL, SQLite
-- 🧰 **Tools**: Git, Docker, Figma
+## About Me
+
+I build systems that solve real problems.
+
+My focus is on:
+- AI integrations
+- Workflow automation
+- Backend architecture
+- Database design
+- Linux & scripting environments
+
+I enjoy understanding how things work under the hood and turning ideas into scalable solutions.
 
 ---
 
-## 📊 GitHub Stats  
-![Nacho's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeByNacho&show_icons=true&theme=radical)  
+## Tech Stack
+
+### Languages
+- JavaScript / TypeScript
+- Python
+- SQL
+- Bash
+- PHP
+
+### Tools & Technologies
+- Node.js
+- React
+- Firebase
+- MySQL
+- Linux
+- n8n
+- Git
 
 ---
 
-## 🌐 Connect with Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/ignaciodamiani/)
-- 📧 **Coming soon...**
+## GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
 ---
 
-✨ *"Code is like art... the more you practice, the better you paint."*
+## Current Focus
+
+- AI workflow automation
+- Infrastructure & system design
+- Scalable backend solutions
+- Continuous learning
+
+---
+
+## Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/ignaciodamiani/
+- Portfolio: Coming soon...
+
+---
+
+⭐ Always building. Always improving.
