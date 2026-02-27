@@ -1,17 +1,18 @@
 # 👋 Hi, I'm Nacho
+![AI](https://img.shields.io/badge/AI-Intelligent%20Systems-8A2BE2)
+![Automation](https://img.shields.io/badge/Automation-Workflows-1E90FF)
+![Backend](https://img.shields.io/badge/Backend-Architecture-00C853)
+![Linux](https://img.shields.io/badge/Linux-Engineering-FCC624?logo=linux&logoColor=black)
 
-💻 Software Developer  
-🤖 Passionate about AI & Automation  
-⚙️ Backend systems, scripting & infrastructure  
-🐧 Linux enthusiast  
+Software Developer focused on building intelligent systems and scalable infrastructure.
 
 ---
 
-## About Me
+## 🤔 About Me
 
-I build systems that solve real problems.
+I design automation pipelines, integrate AI solutions, and build backend systems that scale.
 
-My focus is on:
+My actual focus is on:
 - AI integrations
 - Workflow automation
 - Backend architecture
@@ -22,7 +23,7 @@ I enjoy understanding how things work under the hood and turning ideas into scal
 
 ---
 
-## Tech Stack
+## 💻 Tech Stack
 
 ### Languages
 - JavaScript / TypeScript
@@ -42,7 +43,7 @@ I enjoy understanding how things work under the hood and turning ideas into scal
 
 ---
 
-## GitHub Activity
+## 📊 GitHub Activity
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
@@ -50,20 +51,11 @@ I enjoy understanding how things work under the hood and turning ideas into scal
 
 ---
 
-## Current Focus
-
-- AI workflow automation
-- Infrastructure & system design
-- Scalable backend solutions
-- Continuous learning
-
----
-
-## Connect With Me
+## 🌐 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/ignaciodamiani/
 - Portfolio: Coming soon...
 
 ---
 
-⭐ Always building. Always improving.
+⭐ Always building. Always improving. 🚀
